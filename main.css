@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Tahoma , Arial;
+}
+.serial{
+    width: 200px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px auto 0;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 66px;
+}
+.generate{
+    background-color: chocolate;
+    display: block;
+    margin: 20px auto;
+    padding: 12px;
+    width: fit-content;
+    border-radius: 10px;
+    color: #eeeeee;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+}
+.generate:hover{
+
+        background-color: #e83123 ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
